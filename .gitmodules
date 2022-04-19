@@ -1,0 +1,3 @@
+[submodule "ngs"]
+	path = ngs
+	url = git@github.com:Ragnyll/ngs.git
