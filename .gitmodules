@@ -4,3 +4,6 @@
 [submodule "client-core"]
 	path = client-core
 	url = git@github.com:Ragnyll/client-core.git
+[submodule "RE2"]
+	path = RE2
+	url = git@github.com:Ragnyll/RE2.git
