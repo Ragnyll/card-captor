@@ -17,6 +17,7 @@ Card-Captor utilizes a multiple components for handling the different responsibi
  The RE2 service validates rules for the associated card game and sends them back to NGS to communicate to the clients
 - Client-Core: The code required to communicate with NGS using individual entity deltas.
 - Hallway: A database to map clients to the room with their desired opponent across potentially many NGS Instances. ('Pie In The Sky' idea)
+- FUC: Full user control. Everything needed for maintaining persistent user data ('Pie in the Sky' idea)
 
 ## Contributing:
 If the feature or bug applies to a specific component, log the issue to the correct submodule.
