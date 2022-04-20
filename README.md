@@ -21,3 +21,4 @@ Card-Captor utilizes a multiple components for handling the different responsibi
 ## Contributing:
 If the feature or bug applies to a specific component, log the issue to the correct submodule.
  If the issue concerns standing up the ecosystem or architecture level logic than log it to the `card-captor` repo.
+ All issues are tracked on the top level Card-Captor project.
